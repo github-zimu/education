@@ -1,0 +1,169 @@
+a {
+    text-decoration: none;
+}
+
+.mains {
+    width: 984px;
+    height: 43px;
+    margin: 0 auto;
+}
+
+.logo {
+    padding: 50px 0 0 0;
+}
+
+.menus {
+    margin-top: 4px;
+    width: 100%;
+    height: 43px;
+    line-height: 43px;
+    background-color: #333333;
+}
+
+.menu-ul {
+    padding-left: 10px;
+}
+
+.menu-ul li {
+    list-style: none;
+    display: inline;
+    font-size: 14px;
+    padding-left: 10px;
+    margin-left: 10px;
+    margin-right: 10px;
+}
+
+.menu-ul li a {
+    text-decoration: none;
+    color: #CCCCCC;
+}
+
+.menu-ul li a:hover {
+    background-color: #666666;
+    color: #999999;
+}
+
+.twoMenus {
+    width: 66%;
+    height: 43px;
+    border: 1px solid #CCCCCC;
+    float: left;
+}
+
+.menu-two-ul {
+    padding-left: 24px;
+    margin-top: 10px;
+}
+
+.menu-two-ul li {
+    display: inline;
+    font-size: 14px;
+}
+
+.menu-two-ul li a {
+    text-decoration: none;
+    color: #333333;
+}
+
+.search {
+    border: 1px solid #CCCCCC;
+    height: 43px;
+    line-height: 43px;
+    font-size: 14px;
+    border-left: 0;
+    padding-left: 14px;
+}
+
+.rights {
+    float: left;
+}
+
+.nameTimeTitle {
+    padding-top: 35px;
+    padding-left: 15px;
+    line-height: 10px;
+    border: 1px solid #CCCCCC;
+    margin-top: -3px;
+    border-top: 0px;
+}
+
+.upTimes {
+    font-size: 14px;
+    color: #999999;
+}
+
+.names {
+    font-size: 14px;
+    color: #999999;
+}
+
+.nameTimeTitle h3 {
+    color: #333333;
+    line-height: 28px;
+}
+
+.contexts {
+    font-size: 15px;
+    color: #333333;
+    line-height: 30px;
+    padding-left: 15px;
+    padding-top: 15px;
+    border: 1px solid #CCCCCC;
+    border-top: 0px;
+}
+
+.discusing {
+    border: 1px solid #CCCCCC;
+}
+
+.discuss {
+    padding-top: 10px;
+    margin: 15px;
+    border-bottom: 1px solid #CCCCCC;
+}
+
+.disName {
+    font-weight: 600;
+}
+
+.comment {
+    padding-top: 20px;
+    margin: 15px;
+    line-height: 35px;
+}
+
+.comName span {
+    font-size: 14px;
+}
+
+.comEmail span {
+    font-size: 14px;
+}
+
+input {
+    border-top: 0px;
+    border-left: 0px;
+    border-right: 0px;
+    border-bottom: 1px solid #dbdbdb;
+    outline: none;
+}
+
+.comContext {
+    width: 600px;
+    max-width: 600px;
+    min-width: 600px;
+    height: 157px;
+    min-height: 157px;
+}
+
+.comBtn {
+    margin-top: 20px;
+    width: 600px;
+    height: 25px;
+    line-height: 20px;
+    text-align: center;
+    font-size: 13px;
+    background-color: #FFFFFF;
+    border: 1px solid #CCCCCC;
+    margin-bottom: 200px;
+}

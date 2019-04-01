@@ -1,0 +1,136 @@
+a {
+    text-decoration: none;
+}
+
+.mains {
+    width: 984px;
+    height: 43px;
+    margin: 0 auto;
+}
+
+.logo {
+    padding: 50px 0 0 0;
+}
+
+.menus {
+    margin-top: 4px;
+    width: 100%;
+    height: 43px;
+    line-height: 43px;
+    background-color: #333333;
+}
+
+.menu-ul {
+    padding-left: 10px;
+}
+
+.menu-ul li {
+    list-style: none;
+    display: inline;
+    font-size: 14px;
+    padding-left: 10px;
+    margin-left: 10px;
+    margin-right: 10px;
+}
+
+.menu-ul li a {
+    text-decoration: none;
+    color: #CCCCCC;
+}
+
+.menu-ul li a:hover {
+    background-color: #666666;
+    color: #999999;
+}
+
+.twoMenus {
+    width: 66%;
+    height: 43px;
+    border: 1px solid #CCCCCC;
+    float: left;
+}
+
+.menu-two-ul {
+    padding-left: 24px;
+    margin-top: 10px;
+}
+
+.menu-two-ul li {
+    display: inline;
+    font-size: 14px;
+}
+
+.menu-two-ul li a {
+    text-decoration: none;
+    color: #333333;
+}
+
+.search {
+    border: 1px solid #CCCCCC;
+    height: 43px;
+    line-height: 43px;
+    font-size: 14px;
+    border-left: 0;
+    padding-left: 14px;
+}
+
+.rights {
+    float: left;
+}
+
+.lefts div {
+    margin-top: -4px;
+    margin-left: -1px;
+}
+
+.lefts div h4 {
+    margin-top: 25px;
+}
+
+.lefts div h4 a {
+    color: #CC0000;
+}
+
+.lefts div h4 a:hover {
+    color: #0099FF;
+}
+
+.lefts div span {
+    font-size: 12px;
+    color: #CCCCCC;
+}
+
+.lefts div span a {
+    color: #CCCCCC;
+}
+
+.lefts div span a:hover {
+    text-decoration: underline;
+}
+
+.lefts div p {
+    font-size: 14px;
+}
+
+.imgs {
+    float: left;
+    padding: 25px;
+}
+
+.texts {
+    margin-right: 25px;
+
+}
+
+.cards {
+    clear:both;
+    width: 100%;
+    margin-bottom: 3px;
+    border: 1px solid #CCCCCC;
+}
+
+.notInfo{
+    font-size: 14px;
+    text-align: center;
+    line-height: 45px;
+}
