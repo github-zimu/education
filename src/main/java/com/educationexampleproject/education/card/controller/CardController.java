@@ -48,4 +48,15 @@ public class CardController {
     public String queryCardToTitle() {
         return JsonUtil.toJSon(new ResponseData("200", "成功获取数据!", cardService.queryCardToTitle(titles)));
     }
+
+    /**
+     * 根据标题查询帖子详情--vue
+     *
+     * @return
+     */
+    @ResponseBody
+    @RequestMapping("/queryCardToTitleVue.do")
+    public String queryCardToTitleVue(String title) {
+        return JsonUtil.toJSon(new ResponseData("200", "成功获取数据!", cardService.queryCardToTitle(title)));
+    }
 }
